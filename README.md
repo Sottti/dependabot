@@ -6,12 +6,12 @@
     </picture>
 </div>
 
-## Dependabot Demo Repository
+# 🤖 Dependabot Demo Repository
 
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
 
-### Enabling Security Updates
+## 🔒 Enabling Security Updates
 
 - In your fork, click the **Settings** tab
 - In the left hand side navigation, click **Code security and analysis**
@@ -21,13 +21,13 @@ Dependabot :dependabot:!
 
 <img width="929" alt="screenshot showing Dependabot working on Security Updates" src="https://github.com/dependabot/demo/assets/886768/9295c61a-631b-4c56-9c00-ff078874f362">
 
-After about 5 minutes you should see some PRs open. Merge them and the Securty Alerts will close 🎉
+After about 5 minutes you should see some PRs open. Merge them and the Security Alerts will close 🎉
 
-### Enabling Version Updates
+## 📦 Enabling Version Updates
 
 This demo includes a `dependabot.yml` which configures [Version Updates](https://docs.github.com/github/administering-a-repository/keeping-your-dependencies-updated-automatically), but forks don't automatically start with Dependabot enabled.
 
-The enable Dependabot on your fork:
+To enable Dependabot on your fork:
 - Click the **Insights** tab
 - In the left hand side navigation, click **Dependency Graph**
 - Click on the **Dependabot** tab
